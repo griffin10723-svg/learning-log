@@ -1,0 +1,14 @@
+# Jupyter / Python 부산물
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+
+# 비밀값 — 이 레포에는 키를 두지 않지만 사고 방지용으로 막아둔다
+.env
+.env.*
+
+# OS / 편집기
+.DS_Store
+Thumbs.db
+.vscode/
